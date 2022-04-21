@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-filterable-cards/static/css/main.619e6a44.css",
+    "main.js": "/react-filterable-cards/static/js/main.cb814557.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/react-filterable-cards/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/react-filterable-cards/index.html",
+    "main.619e6a44.css.map": "/react-filterable-cards/static/css/main.619e6a44.css.map",
+    "main.cb814557.js.map": "/react-filterable-cards/static/js/main.cb814557.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/react-filterable-cards/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619e6a44.css",
+    "static/js/main.cb814557.js"
+  ]
+}
